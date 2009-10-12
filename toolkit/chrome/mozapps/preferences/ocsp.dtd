@@ -1,0 +1,12 @@
+<!ENTITY window.width                 "46em">  
+
+<!ENTITY ocspDialog.title             "Weryfikacja">
+<!ENTITY validation.ocsp.description  "&brandShortName; może używać protokołu weryfikacji stanu certyfikatu (OCSP) do sprawdzania certyfikatów. Dostępne są następujące ustawienia OCSP:">
+<!ENTITY disableOCSP.label            "Nie używaj OCSP do weryfikacji certyfikatów">
+<!ENTITY certOCSP.label               "Weryfikuj tylko certyfikaty zawierające adres URL usługi OCSP">
+<!ENTITY proxyOCSP.label              "Użyj poniższych ustawień do weryfikacji wszystkich certyfikatów:">
+
+<!ENTITY serviceURL.label             "Adres URL usługi:">
+<!ENTITY serviceURL.accesskey         "s">
+<!ENTITY signingCA.label              "Ośrodek certyfikujący:">
+<!ENTITY signingCA.accesskey          "r">

@@ -1,0 +1,6 @@
+<!ENTITY editPageCmd.label "Edytuj stronę w programie &brandShortName;" >
+<!ENTITY editPageCmd.accesskey "E" >
+
+<!ENTITY editLinkCmd.label "Edytuj odnośnik w programie &brandShortName;" >
+<!ENTITY editLinkCmd.accesskey "E" >
+
