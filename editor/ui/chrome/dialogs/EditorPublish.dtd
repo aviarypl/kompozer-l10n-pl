@@ -28,6 +28,8 @@
 <!ENTITY publishTab.label "Opublikuj" >
 <!ENTITY settingsTab.label "Ustawienia" >
 
+<!ENTITY publishButton.label        "Publikuj">
+
 <!-- Publish Tab Panel -->
 <!ENTITY siteList.label "Nazwa miejsca:" >
 <!ENTITY siteList.tooltip "Wybierz miejsce do publikacji plików" >

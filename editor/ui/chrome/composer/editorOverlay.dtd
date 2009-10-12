@@ -561,6 +561,12 @@
 <!ENTITY PreviewMode.label "Podgląd" >
 <!ENTITY PreviewMode.accesskey "p" >
 <!ENTITY PreviewMode.tooltip "Wyświetl jako WYSIWYG (brak ikon dla niewidocznych znaczników)" >
+<!ENTITY DesignMode.label                    "Projektowanie">
+<!ENTITY DesignMode.accesskey                "d">
+<!ENTITY DesignMode.tooltip                  "Normalny tryb edycji">
+<!ENTITY SplitMode.label                     "Podzielony">
+<!ENTITY SplitMode.accesskey                 "s">
+<!ENTITY SplitMode.tooltip                   "Wyświetl kod HTML aktualnie zaznaczonego elementu">
 <!ENTITY SourceTabDirection "ltr" >
 <!ENTITY structSelect.label "Zaznacz" >
 <!ENTITY structSelect.accesskey "a" >

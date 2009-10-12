@@ -40,7 +40,10 @@
 
 <!ENTITY filterAll.label          "Wszystkie pliki">
 <!ENTITY filterHTML.label         "Dokumenty HTML">
+<!ENTITY filterCSS.label          "Arkusze CSS">
 <!ENTITY filterImages.label       "Pliki obrazów">
+<!ENTITY filterMedia.label        "Pliki multimediów">
+<!ENTITY filterScripts.label      "Pliki tekstowe">
 
 <!ENTITY treeViewCheckbox.label   "Widok drzewa">
 
@@ -68,13 +71,15 @@
 <!-- KompoZer 0.8 -->
 <!ENTITY localTab.label           "Lokalne">
 <!ENTITY remoteTab.label          "Zdalne">
+<!ENTITY ftpConsole.label         "Konsola FTP">
 
+<!ENTITY editItem.label           "Edytuj"> 
 <!ENTITY openItem.label           "Otwórz">
 <!ENTITY openAsText.label         "Otwórz jako tekst">
 <!ENTITY openRemote.label         "Otwórz zdalny katalog">
 <!ENTITY insertImage.label        "Wstaw obrazek">
 <!ENTITY previewItem.label        "Podgląd">
-<!ENTITY uploadItem.label         "Wyślij…">
+<!ENTITY uploadItem.label         "Publikuj…">
 <!ENTITY downloadItem.label       "Przywróć…">
 <!ENTITY itemProperties.label     "Właściwości…">
 
