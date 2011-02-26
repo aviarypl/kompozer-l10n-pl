@@ -46,7 +46,7 @@
 <!ENTITY TextAreaCols.accessKey "K" >
 <!ENTITY TextAreaReadOnly.label "Tylko do odczytu" >
 <!ENTITY TextAreaReadOnly.accessKey "o" >
-<!ENTITY TextAreaDisabled.label "Wyłączony" >
+<!ENTITY TextAreaDisabled.label "Wyłączone" >
 <!ENTITY TextAreaDisabled.accessKey "W" >
 <!ENTITY TextAreaTabIndex.label "Indeks kolejności dostępu:" >
 <!ENTITY TextAreaTabIndex.accessKey "I" >

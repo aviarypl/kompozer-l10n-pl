@@ -1,25 +1,35 @@
+<!-- extracted from content/pref-fonts.xul -->
+
+<!-- LOCALIZATION NOTE : FILE 'Fonts' prefs dialog -->
 <!ENTITY pref.fonts.title "Czcionki" >
+
 <!ENTITY language.label "Czcionki:" >
 <!ENTITY language.accesskey "C" >
+
 <!ENTITY typefaces.label "Krój czcionki" >
-<!ENTITY sizes.label "Rozmiar (piksele)" >
+<!ENTITY sizes.label "Rozmiar (px)" >
+
 <!ENTITY proportional.label "Proporcjonalna:" >
-<!ENTITY proportional.accesskey "p" >
+<!ENTITY proportional.accesskey "P" >
+
 <!ENTITY serif.label "Szeryfowa:" >
 <!ENTITY serif.accesskey "s" >
 <!ENTITY sans-serif.label "Bezszeryfowa:" >
 <!ENTITY sans-serif.accesskey "B" >
 <!ENTITY monospace.label "O stałej szerokości:" >
-<!ENTITY monospace.accesskey "O" >
+<!ENTITY monospace.accesskey "t" >
+<!-- LOCALIZATION NOTE (fantasy.label): 'Fantasy' means 'Ornate' -->
 <!ENTITY fantasy.label "Fantazyjna:" >
-<!ENTITY fantasy.accesskey "f" >
+<!ENTITY fantasy.accesskey "F" >
 <!ENTITY cursive.label "Kursywa:" >
 <!ENTITY cursive.accesskey "K" >
-<!ENTITY fontsize.units "pikseli" >
+
+<!ENTITY fontsize.units "px" >
+
 <!ENTITY font.langGroup.latin1 "Zachodnie" >
 <!ENTITY font.langGroup.latin2 "Środkowoeuropejskie" >
 <!ENTITY font.langGroup.japanese "Japońskie" >
-<!ENTITY font.langGroup.trad-chinese "Chińskie tradycyjne (Taiwan)" >
+<!ENTITY font.langGroup.trad-chinese "Chińskie tradycyjne (Tajwan)" >
 <!ENTITY font.langGroup.simpl-chinese "Chińskie uproszczone" >
 <!ENTITY font.langGroup.trad-chinese-hk "Chińskie tradycyjne (Hong Kong)" >
 <!ENTITY font.langGroup.korean "Koreańskie" >
@@ -32,29 +42,39 @@
 <!ENTITY font.langGroup.thai "Tajskie" >
 <!ENTITY font.langGroup.hebrew "Hebrajskie" >
 <!ENTITY font.langGroup.arabic "Arabskie" >
-<!ENTITY font.langGroup.devanagari "Symboliczne: Devanagari" >
+<!ENTITY font.langGroup.devanagari "Devanagari" >
 <!ENTITY font.langGroup.tamil "Tamilskie" >
-<!ENTITY font.langGroup.armenian "Armeńskie" >
+<!ENTITY font.langGroup.armenian "Ormiańskie" >
 <!ENTITY font.langGroup.bengali "Bengalskie" >
-<!ENTITY font.langGroup.canadian "Zunifikowane kanadyjskie sylaby" >
+<!ENTITY font.langGroup.canadian "Ujednolicony sylabariusz kanadyjski" >
 <!ENTITY font.langGroup.ethiopic "Etiopskie" >
 <!ENTITY font.langGroup.georgian "Gruzińskie" >
-<!ENTITY font.langGroup.gujarati "Gujaratarskie" >
-<!ENTITY font.langGroup.gurmukhi "Gurmukhierskie" >
+<!ENTITY font.langGroup.gujarati "Gudżarati" >
+<!ENTITY font.langGroup.gurmukhi "Gurmukhi" >
 <!ENTITY font.langGroup.khmer "Khmerskie" >
-<!ENTITY font.langGroup.malayalam "Malajskie" >
+<!ENTITY font.langGroup.malayalam "Malajalam" >
+<!-- Minimum font size -->
 <!ENTITY minSize.label "Minimalny rozmiar czcionki:" >
 <!ENTITY minSize.accesskey "z" >
 <!ENTITY minSize.none "Brak" >
+
+<!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Szeryfowa" >
-<!ENTITY useDefaultFontSansSerif.label "Sans Serif" >
-<!ENTITY newLanguages.label 'Nowe języki mogą być skonfigurowane przy użyciu panelu "Języki".' >
+<!ENTITY useDefaultFontSansSerif.label "Bezszeryfowa" >
+
+<!ENTITY newLanguages.label "Nowe języki mogą być skonfigurowane na karcie „Języki”." >
+
 <!ENTITY useDocumentFonts.label "Zezwalaj na użycie czcionek zadeklarowanych w wyświetlanych dokumentach" >
 <!ENTITY useDocumentFonts.accesskey "o" >
-<!ENTITY header2 "Kiedy strona używa określonych przez jej twórcę czcionek" >
-<!ENTITY useDefaultFont.label "Użyj moich domyślnych czcionek, omijając te z dokumentu" >
-<!ENTITY useDefaultFont.accesskey "u" >
-<!ENTITY useDocFontNonDynamic.label "Użyj czcionek dokumentu" >
-<!ENTITY useDocFontNonDynamic.accesskey "d" >
+
+<!-- leaving this stuff in for now -->
+
+<!ENTITY header2 "Kiedy strona używa określone przez jej twórcę czcionki" >
+<!ENTITY useDefaultFont.label "Użyj moich domyślnych czcionek, ignorując określone przez twórcę strony" >
+<!ENTITY useDefaultFont.accesskey "m" >
+<!-- LOCALIZATION NOTE (useDocFontNonDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
+<!ENTITY useDocFontNonDynamic.label "Użyj czcionek określonych przez twórcę strony" >
+<!ENTITY useDocFontNonDynamic.accesskey "t" >
+<!-- LOCALIZATION NOTE (useDocFontDynamic): Translate 'Dynamic Fonts' according to Netscape Glossary -->
 <!ENTITY useDocFontDynamic.label "Użyj wszystkich czcionek dokumentu" >
 <!ENTITY useDocFontDynamic.accesskey "w" >

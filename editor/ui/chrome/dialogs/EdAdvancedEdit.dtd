@@ -33,5 +33,5 @@
 <!ENTITY tabCSS.label                   "Styl osadzony w znaczniku">
 <!ENTITY tabJSE.label                   "Zdarzenia JavaScript">
 
-<!ENTITY editAttribute.label    "Kliknij na elemencie powyżej, aby edytować jego wartość">
+<!ENTITY editAttribute.label    "Kliknij element powyżej, aby edytować jego wartość">
 <!ENTITY removeAttribute.label  "Usuń">

@@ -40,7 +40,7 @@
 
 <!ENTITY FormName.label "Nazwa formularza:">
 <!ENTITY FormName.accesskey "N">
-<!ENTITY FormAction.label "Adres URL akcji:">
+<!ENTITY FormAction.label "Adres URL czynności:">
 <!ENTITY FormAction.accesskey "A">
 <!ENTITY FormMethod.label "Metoda:">
 <!ENTITY FormMethod.accesskey "M">

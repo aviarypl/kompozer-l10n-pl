@@ -41,7 +41,7 @@
 <!ENTITY filterAll.label          "Wszystkie pliki">
 <!ENTITY filterHTML.label         "Dokumenty HTML">
 <!ENTITY filterCSS.label          "Arkusze CSS">
-<!ENTITY filterImages.label       "Pliki obrazów">
+<!ENTITY filterImages.label       "Pliki obrazków">
 <!ENTITY filterMedia.label        "Pliki multimediów">
 <!ENTITY filterScripts.label      "Pliki tekstowe">
 
@@ -60,7 +60,7 @@
 
 <!ENTITY reloadButton.tooltip     "Odśwież">
 <!ENTITY createDirButton.tooltip  "Nowy katalog">
-<!ENTITY removeButton.tooltip     "Kasuj">
+<!ENTITY removeButton.tooltip     "Usuń">
 <!ENTITY stopButton.tooltip       "Zatrzymaj">
 
 <!ENTITY renameMenu.label         "Zmień nazwę">

@@ -38,29 +38,29 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY sidebar.panels.label           "Sidebar" >
+<!ENTITY sidebar.panels.label           "Panel boczny" >
 <!ENTITY sidebar.reload.label           "Odśwież" >
 <!ENTITY sidebar.reload.accesskey       "O" >
-<!ENTITY sidebar.picker.label           "Panele" >
-<!ENTITY sidebar.customize.label        "Dostosuj Sidebar…" >
+<!ENTITY sidebar.picker.label           "Karty" >
+<!ENTITY sidebar.customize.label        "Dostosuj panel boczny…" >
 <!ENTITY sidebar.customize.accesskey    "D" >
-<!ENTITY sidebar.hide.label             "Ukryj panel" >
+<!ENTITY sidebar.hide.label             "Ukryj kartę" >
 <!ENTITY sidebar.hide.accesskey         "U" >
-<!ENTITY sidebar.switch.label           "Przełącz panel" >
+<!ENTITY sidebar.switch.label           "Przełącz kartę" >
 <!ENTITY sidebar.switch.accesskey       "P" >
-<!ENTITY sidebarCmd.label               "Sidebar" >
-<!ENTITY sidebarCmd.accesskey           "b" >
-<!ENTITY sidebar.loading.label          "Ładowanie…" >
+<!ENTITY sidebarCmd.label               "Menedżer witryny" >
+<!ENTITY sidebarCmd.accesskey           "M" >
+<!ENTITY sidebar.loading.label          "Wczytywanie…" >
 <!ENTITY sidebar.loadstopped.label      "Wczytywanie zatrzymane" >
 <!ENTITY sidebar.loading.stop.label     "Zatrzymaj" >
 <!ENTITY sidebar.loading.stop.accesskey "Z" >						
                                     
-<!ENTITY sidebar.no-panels.state     "Sidebar jest obecnie pusty." >
-<!ENTITY sidebar.no-panels.add       "Możesz dodać panele klikając przycisk Panele." >
-<!ENTITY sidebar.no-panels.hide      "Jeśli chcesz całkowicie schować Sidebar, wybierz pozycję Sidebar z menu Widok." >
-<!ENTITY sidebar.sbDirectory.label   "Katalog Sidebar…" >																			
+<!ENTITY sidebar.no-panels.state     "Panel boczny jest obecnie pusty." >
+<!ENTITY sidebar.no-panels.add       "Możesz dodać karty naciskając przycisk Karty." >
+<!ENTITY sidebar.no-panels.hide      "Aby całkowicie ukryć panel boczny, w menu Widok otwórz pozycję „Pokaż/ukryj”, a następnie „Panel boczny”" >
+<!ENTITY sidebar.sbDirectory.label   "Katalog paneli bocznych…" >
                                  
-<!ENTITY sidebar.pagenotfound.label "Ten panel w chwili obecnej jest niedostępny." >
-<!ENTITY sidebar.close.tooltip      "Zamknij Sidebar" >
-<!ENTITY sidebar.open.tooltip       "Otwórz Sidebar" >									
+<!ENTITY sidebar.pagenotfound.label "Ta karta w chwili obecnej jest niedostępna." >
+<!ENTITY sidebar.close.tooltip      "Zamknij menedżera witryny" >
+<!ENTITY sidebar.open.tooltip       "Otwórz panel boczny" >
 	                             

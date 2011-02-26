@@ -39,13 +39,13 @@
 
 <!-- Window title -->
 <!ENTITY cascadesMenuItem.label         "Edytor CSS">
-<!ENTITY cascadesMenuItem.accesskey     "E">
+<!ENTITY cascadesMenuItem.accesskey     "C">
 <!ENTITY cascadesMenuItem.keybinding    "VK_F11">
 
 <!ENTITY classSelectMenu.label          "Klasy">
 <!ENTITY idSelectMenu.label             "ID">
 
-<!ENTITY inlineStyles.label             "Styl w znaczniku">
+<!ENTITY inlineStyles.label             "Styl w tekście">
 <!ENTITY inlinestyles.accesskey         "S">
 
 <!ENTITY textProperties.label           "Właściwości tekstu">
@@ -55,7 +55,7 @@
 <!ENTITY backgroundProperties.label     "Właściwości tła">
 <!ENTITY backgroundproperties.accesskey "c">
 <!ENTITY boxProperties.label            "Właściwości obiektów blokowych">
-<!ENTITY boxproperties.accesskey        "o">
+<!ENTITY boxproperties.accesskey        "b">
 <!ENTITY auralProperties.label          "Właściwości dźwiękowe">
 <!ENTITY auralproperties.accesskey      "d">
 <!ENTITY makeCSSRule.label              "Wyeksportuj i utwórz arkusz stylów">

@@ -20,6 +20,7 @@
    -
    - Contributor(s):
    -   Daniel Glazman (glazman@disruptive-innovations.com), on behalf of Linspire Inc.
+   -   Fabien Cazenave (Kaze) fabiwan.kenobi@free.fr
    -
    - Alternatively, the contents of this file may be used under the terms of
    - either the GNU General Public License Version 2 or later (the "GPL"), or
@@ -40,3 +41,4 @@
 <!ENTITY  brandShortName        "KompoZer">
 <!ENTITY  vendorShortName       "KompoZer">
 <!ENTITY  sidebarName           "Panel boczny">
+<!ENTITY  helpCopyrightNotice   "Copyright &copy; 2004-2010 Contributors to the &brandShortName; Help Documentation Project.">

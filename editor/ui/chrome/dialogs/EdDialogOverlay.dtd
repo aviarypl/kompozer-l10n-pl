@@ -18,7 +18,7 @@
    - Rights Reserved.
    - 
    - Contributor(s): 
-   -     AviaryPL Team members <team@aviary.pl>
+   - Aviary.pl Team members <team@aviary.pl>
   -->
 
 <!ENTITY AdvancedEditButton.label "Edycja zaawansowana…">
@@ -32,7 +32,7 @@
 <!ENTITY makeUrlRelative.tooltip "Zmiana adresu URL na relatywny lub absolutny. Aby użyć tej funkcji, należy najpierw zapisać stronę.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Wprowadź adres strony WWW, nazwę pliku lokalnego lub wybierz Zakładkę albo Nagłówek z poniższej listy:">
+<!ENTITY LinkURLEditField.label "Wprowadź adres strony WWW, nazwę pliku lokalnego lub wybierz kartę albo nagłówek z rozwijanej listy:">
 <!ENTITY LinkURLEditField.accessKey "o">
 
 <!ENTITY isMailAddress.label "Tekst wprowadzony powyżej jest adresem e-mail">

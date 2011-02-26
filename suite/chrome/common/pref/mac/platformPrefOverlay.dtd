@@ -8,5 +8,5 @@
 <!ENTITY prefWindow.size "width: 58em; height: 41em;">
 
 <!-- pref-tabs.xul -->
-<!ENTITY urlbar.label "&#8984;+Return in the Location bar">
-<!ENTITY middleClick.label "Middle-click, &#8984;+click or &#8984;+Return on links in a Web page">
+<!ENTITY urlbar.label "&#8984;+Return  w pasku adresu">
+<!ENTITY middleClick.label "Kliknięcie ś.p. myszy, &#8984;+kliknięcie lub &#8984;+Return odnośników na stronie WWW">

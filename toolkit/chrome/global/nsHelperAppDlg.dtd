@@ -9,14 +9,14 @@
      If there is no descriptive text, then the alternative text is used which
      has only insert #2.
  -->
-<!ENTITY intro.label "&quot;#3&quot; jest typu #2 (#1). #4 nie jest w stanie określić, jak obsłużyć taki plik. Położenie pliku:" >
-<!ENTITY intro.noDesc.label "Plik &quot;#3&quot; jest typu MIME #2. #4 nie jest w stanie określić, jak obsłużyć taki plik. Położenie pliku:" >
+<!ENTITY intro.label "„#3” jest typu #2 (#1). #4 nie jest w stanie określić, jak obsłużyć taki plik. Położenie pliku:" >
+<!ENTITY intro.noDesc.label "Plik „#3” jest typu MIME #2. #4 nie jest w stanie określić, jak obsłużyć taki plik. Położenie pliku:" >
 
-<!ENTITY intro.attachment.label "Zgodnie z deklaracją witryny, pobierany plik &quot;#3&quot; powinien być traktowany jako załącznik. Typ MIME pliku: #2 (#1), adres:" >
-<!ENTITY intro.attachment.noDesc.label "Zgodnie z deklaracją witryny, pobierany plik &quot;#3&quot; powinien być traktowany jako załącznik. Typ MIME pliku: #2, adres:" >
+<!ENTITY intro.attachment.label "Zgodnie z deklaracją witryny, pobierany plik „#3” powinien być traktowany jako załącznik. Typ MIME pliku: #2 (#1), adres:" >
+<!ENTITY intro.attachment.noDesc.label "Zgodnie z deklaracją witryny, pobierany plik „#3” powinien być traktowany jako załącznik. Typ MIME pliku: #2, adres:" >
 
-<!ENTITY intro.sniffed.label "Program #4 wykrył, że &quot;#3&quot; jest najprawdopodobniej plikiem typu MIME #2 (#1). Plik ten znajduje się w:">
-<!ENTITY intro.sniffed.noDesc.label "Program #4 wykrył, że &quot;#3&quot; jest najprawdopodobniej plikiem typu MIME #2. Plik ten znajduje się w:">
+<!ENTITY intro.sniffed.label "Program #4 wykrył, że „#3” jest najprawdopodobniej plikiem typu MIME #2 (#1). Plik ten znajduje się w:">
+<!ENTITY intro.sniffed.noDesc.label "Program #4 wykrył, że „#3” jest najprawdopodobniej plikiem typu MIME #2. Plik ten znajduje się w:">
 
 <!ENTITY prompt.label "Po zakończeniu pobierania" >
 
@@ -26,8 +26,8 @@
 <!ENTITY saveToDisk.label "Zachowaj plik na dysku" >
 <!ENTITY saveToDisk.accesskey "a" >
 
-<!ENTITY useSystemDefault.label "Otwórz plik za pomocą domyślnej aplikacji (#1)" >
-<!ENTITY useSystemDefault.noDesc.label "Otwórz plik za pomocą domyślnej aplikacji" >
+<!ENTITY useSystemDefault.label "Otwórz plik za pomocą domyślnego programu (#1)" >
+<!ENTITY useSystemDefault.noDesc.label "Otwórz plik za pomocą domyślnego programu" >
 <!ENTITY useSystemDefault.accesskey "o" >
 
 <!ENTITY openUsing.label "Otwórz go za pomocą" >
@@ -36,7 +36,7 @@
 <!ENTITY chooseApp.label "Wybierz…" >
 <!ENTITY chooseApp.accesskey "W" >
 
-<!ENTITY chooseAppFilePickerTitle "Wybierz aplikację pomocniczą" >
+<!ENTITY chooseAppFilePickerTitle "Wybierz program pomocniczy" >
 
-<!ENTITY badApp "Wybrana aplikacja (&quot;#1&quot;) nie może zostać odnaleziona. Należy sprawdzić poprawność wprowadzonej nazwy pliku lub wybrać inną aplikację." >
-<!ENTITY badApp.title "Nie znaleziono aplikacji" >
+<!ENTITY badApp "Nie można odnaleźć wybranego programu („#1”). Należy sprawdzić poprawność wprowadzonej nazwy pliku lub wybrać inny program." >
+<!ENTITY badApp.title "Nie znaleziono programu" >

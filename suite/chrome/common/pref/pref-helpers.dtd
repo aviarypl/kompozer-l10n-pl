@@ -40,7 +40,7 @@
 <!ENTITY userDefinedBrower.label       "Użytkownika">
 
 <!ENTITY cmdLine.label                 "Linia poleceń:">
-<!ENTITY hints.label                   "Adres URL można podać za pomocą '$s'. Przykład:">
+<!ENTITY hints.label                   "Adres URL można podać za pomocą „$s”. Przykład:">
 <!ENTITY example.label                 "/usr/lib/mozilla/mozilla-xremote-client openURL($s)">
 
 <!ENTITY imageEditor.label             "Edytor obrazków">
@@ -50,8 +50,8 @@
 <!ENTITY connectionButton.label        "Ustawienia połączenia">
 <!ENTITY connectionbutton.accesskey    "o">
 
-<!ENTITY carriageReturns.label         "Działanie klawisza enter">
-<!ENTITY crInPCreatesNewP.label        "Naciśnięcie klawisza enter w akapicie tworzy nowy akapit">
+<!ENTITY carriageReturns.label         "Działanie klawisza Enter">
+<!ENTITY crInPCreatesNewP.label        "Naciśnięcie klawisza Enter w akapicie tworzy nowy akapit">
 
 <!ENTITY specialChars.label            "Znaki specjalne">
 <!ENTITY specialChars.description      "Zapisuj poniższe znaki za pomocą encji:">
@@ -73,5 +73,5 @@
 <!ENTITY looseDTD.label                "Transitional">
 <!ENTITY strictDTD.label               "Strict">
 
-<!ENTITY noGTEncoding.label            "Nie konwertuj '&gt;' poza wartościami atrybutów">
+<!ENTITY noGTEncoding.label            "Nie konwertuj „&gt;” poza wartościami atrybutów">
 <!ENTITY noEscaping.label              "Nie konwertuj znaków specjalnych w wartościach atrybutów">

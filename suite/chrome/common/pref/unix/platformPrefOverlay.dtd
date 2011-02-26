@@ -1,5 +1,5 @@
 <!ENTITY urlbar.label "Ctrl+Enter w pasku adresu">
-<!ENTITY middleClick.label "Środkowy klawisz myszy, kliknięcie z klawiszem ctrl lub ctrl+enter na odnośnikach na stronie WWW">
+<!ENTITY middleClick.label "Kliknięcie ś.p. myszy, kliknięcie z wciśniętym klawiszem Ctrl lub Ctrl+Enter odnośników na stronie WWW">
 
 
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the

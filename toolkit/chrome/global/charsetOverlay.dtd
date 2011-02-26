@@ -1,5 +1,5 @@
-<!ENTITY charsetMenu.label "Kodowanie znaków" >
-<!ENTITY charsetMenu.accesskey "K" >
+<!ENTITY charsetMenu.label "Zestaw znaków" >
+<!ENTITY charsetMenu.accesskey "E" >
 <!ENTITY charsetMenuAutodet.label "Wybór automatyczny" >
 <!ENTITY charsetMenuAutodet.accesskey "a" >
 <!ENTITY charsetMenuMore.label "Więcej" >

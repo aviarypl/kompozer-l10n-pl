@@ -1,6 +1,6 @@
 <!-- LOCALIZATION NOTE : FILE 'Languages' preferences dialog -->
 
-<!ENTITY  languages.customize.prefLangDescript          "Strony internetowe są niekiedy napisane w więcej niż jednym języku. Wbierz języki w których mają być wyświetlane strony, w kolejności występowania.">
+<!ENTITY  languages.customize.prefLangDescript          "Strony internetowe są niekiedy napisane w więcej niż jednym języku. Wbierz języki, w których mają być wyświetlane strony w kolejności występowania.">
 <!ENTITY languages.customize.lHeader "Języki" >
 <!ENTITY languages.customize.rHeader "Języki, w których oglądane są strony WWW" >
 <!ENTITY langtitle.label "Języki" >
@@ -13,8 +13,8 @@
 <!ENTITY languages.customize.deleteButton.accesskey "U" >
 <!ENTITY languages.customize.title.label "Dostosuj języki" >
 <!ENTITY languages.customize.add.title.label "Dodaj język" >
-<!ENTITY languages.customize.left.header "Kodowanie znaków" >
-<!ENTITY charset.customize.right.header "Wybierz obsługiwane kodowania" >
+<!ENTITY languages.customize.left.header "Zestaw znaków" >
+<!ENTITY charset.customize.right.header "Wybierz obsługiwane zestawy znaków" >
 <!ENTITY languages.customize.available.label "Języki:" >
 <!ENTITY languages.customize.active.label "Lista preferowanych wersji językowych:" >
 <!ENTITY languages.customize.reorder.label "Przestaw" >
@@ -23,8 +23,8 @@
 <!ENTITY languages.customize.add.label "Dodaj" >
 <!ENTITY languages.customize.others.label "Inne:" >
 <!ENTITY languages.customize.others.accesskey "I" >
-<!ENTITY languages.customize.Charset.grouplabel "Kodowanie znaków" >
-<!ENTITY languages.customize.DefaultCharset.label "Domyślne kodowanie znaków:" >
+<!ENTITY languages.customize.Charset.grouplabel "Zestaw znaków" >
+<!ENTITY languages.customize.DefaultCharset.label "Domyślny zestaw znaków:" >
 <!ENTITY languages.customize.DefaultCharset.accesskey "D" >
 <!-- LOCALIZATION NOTE  Character Encoding Preferences Dialog: Do NOT localize the terms "en-bz, ar-jo"  -->
 <!ENTITY languages.customize.others.examples "(wprowadź kod języka, np.: en-bz, ar-jo)" >

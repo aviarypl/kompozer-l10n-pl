@@ -1,1 +1,5 @@
-<!ENTITY charsetCustomize.title "Wybierz kodowanie znaków"><!ENTITY charsetCustomize.description "Wybierz kodowanie znaków"><!ENTITY charsets.label "Dostępne kodowania:"><!ENTITY otherCharset.label "Inne:"><!ENTITY otherCharset.accesskey "I">
+<!ENTITY charsetCustomize.title "Wybierz zestaw znaków">
+<!ENTITY charsetCustomize.description "Wybierz zestaw znaków">
+<!ENTITY charsets.label "Dostępne zestawy:">
+<!ENTITY otherCharset.label "Inne:">
+<!ENTITY otherCharset.accesskey "I">

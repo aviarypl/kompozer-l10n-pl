@@ -25,10 +25,10 @@
 <!-- This button is for the progressive disclosure of additional editing functionality -->
 
 <!-- These strings are for use specifically in the editor's link dialog. -->
-<!ENTITY windowTitle.label "Zapisz i zmień kodowanie znaków" >
+<!ENTITY windowTitle.label "Zapisz i zmień zestaw znaków" >
 <!ENTITY documentTitleTitle.label "Tytuł strony" >
-<!ENTITY documentCharsetTitle.label "Kodowanie znaków" >
-<!ENTITY documentCharsetDesc.label "Wybierz kodowanie znaków dla zapisywanego dokumentu:" >
+<!ENTITY documentCharsetTitle.label "Zestaw znaków" >
+<!ENTITY documentCharsetDesc.label "Wybierz zestaw znaków dla zapisywanego dokumentu:" >
 <!ENTITY documentExportToText.label "Eksportuj do formatu tekstowego" >
 
 

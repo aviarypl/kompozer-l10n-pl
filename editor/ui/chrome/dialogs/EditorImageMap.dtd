@@ -40,15 +40,15 @@
 <!ENTITY mapeditMenu.label "Edtuj">
 <!ENTITY mapeditmenu.accesskey "E">
 <!ENTITY cutCmd.label "Wytnij">
-<!ENTITY mapeditcut.accesskey "W">
+<!ENTITY mapeditcut.accesskey "T">
 <!ENTITY copyCmd.label "Kopiuj">
 <!ENTITY mapeditcopy.accesskey "K">
 <!ENTITY pasteCmd.label "Wklej">
 <!ENTITY mapeditpaste.accesskey "l">
 <!ENTITY selectallCmd.label "Zaznacz wszystko">
 <!ENTITY mapselectall.accesskey "a">
-<!ENTITY propsCmd.label "Właściwości Hotspota"><!--hmm?-->
-<!ENTITY mapeditprops.accesskey "h">
+<!ENTITY propsCmd.label "Właściwości punktu dostępowego">
+<!ENTITY mapeditprops.accesskey "d">
 
 <!-- View menu -->
 <!ENTITY mapviewMenu.label "Widok">
@@ -76,7 +76,7 @@
 
 <!ENTITY zoominCmd.label "Przybliż">
 <!ENTITY zoomoutCmd.label "Oddal">
-<!ENTITY delSpotCmd.label "Usuń widok"><!--hmmm?-->
+<!ENTITY delSpotCmd.label "Usuń miejsce"><!--hmmm?-->
 
 <!-- Keys -->
 <!ENTITY clear.accesskey "d">

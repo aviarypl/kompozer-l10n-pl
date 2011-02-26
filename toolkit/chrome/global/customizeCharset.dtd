@@ -41,14 +41,14 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY title.label 		"Ustawienia kodowania znaków" >
-<!ENTITY current.label 		"Używane kodowania znaków" >
-<!ENTITY remove.label 		"Usuń" >
-<!ENTITY remove.accessKey 	"U">
-<!ENTITY additional.label 	"Dostępne kodowania znaków" >
-<!ENTITY add.label 			"Dodaj" >
-<!ENTITY add.accessKey    	"o">
-<!ENTITY moveUp.label     	"W górę">
-<!ENTITY moveUp.accessKey 	"g">
-<!ENTITY moveDown.label   	"W dół">
-<!ENTITY moveDown.accessKey	"d">                 
+<!ENTITY title.label         "Ustawienia zestawu znaków">
+<!ENTITY current.label       "Używane zestawy znaków">
+<!ENTITY remove.label        "Usuń">
+<!ENTITY remove.accessKey    "U">
+<!ENTITY additional.label    "Dostępne zestawy znaków">
+<!ENTITY add.label           "Dodaj">
+<!ENTITY add.accessKey       "o">
+<!ENTITY moveUp.label        "W górę">
+<!ENTITY moveUp.accessKey    "g">
+<!ENTITY moveDown.label      "W dół">
+<!ENTITY moveDown.accessKey  "d">

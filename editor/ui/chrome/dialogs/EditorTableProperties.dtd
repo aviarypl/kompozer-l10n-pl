@@ -39,7 +39,7 @@
 <!ENTITY tablePadding.label "Marginesy:" >
 <!ENTITY tablePadding.accessKey "M" >
 <!ENTITY tablePxBetwCells.label "pikseli pomiędzy komórkami" >
-<!ENTITY tablePxBetwBrdrCellContent.label "pikseli pomiędzy obramowaniem a zawartością komórki" >
+<!ENTITY tablePxBetwBrdrCellContent.label "pikseli pomiędzy obramowaniem, a zawartością komórki" >
 <!ENTITY tableAlignment.label "Wyrównanie tabeli:" >
 <!ENTITY tableAlignment.accessKey "t" >
 <!ENTITY tableCaption.label "Podpis:" >
@@ -62,6 +62,7 @@
 <!ENTITY cellSelectPrevious.accessKey "P" >
 <!ENTITY cellApplyBeforeMove.label "Zastosuj zmiany przed zmianą zaznaczenia" >
 <!ENTITY cellKeepCurrentData.label "Zachowaj bieżące ustawienia" >
+<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
 <!ENTITY applyBeforeChange1.label "Bieżące zmiany zostaną zastosowane" >
 <!ENTITY applyBeforeChange2.label "przed zmianą zaznaczenia." >
 <!ENTITY cellRowSpan.label "Rozpiętość wiersza:" >
@@ -85,7 +86,7 @@
 <!ENTITY cellAlignJustify.label "Wyjustowana" >
 <!ENTITY cellAlignAtChar.label "Do znaku:" >
 <!ENTITY cellInheritColor.label "(Brak - pozwól, by widoczne było tło tabeli)" >
-<!ENTITY cellUseCheckboxHelp.label "Użyj pól wyboru, aby wybrać które z powyższych właściwości zostaną zastosowane do zaznaczonych komórek" >
+<!ENTITY cellUseCheckboxHelp.label "Użyj pól wyboru, aby wybrać z powyższych właściwości, te które zostaną zastosowane do zaznaczonych komórek" >
 
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label "Rozmiar" >

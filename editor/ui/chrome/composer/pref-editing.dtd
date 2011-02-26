@@ -5,19 +5,19 @@
 <!ENTITY  authorName.accesskey      "A">
 <!ENTITY  pageColorHeader           "Domyślny wygląd strony">
 
-<!ENTITY defaultColorsRadio.label   "Domyślne kolory przeglądarki (Nie definiuj kolorów na stronie)">
+<!ENTITY defaultColorsRadio.label   "Domyślne kolory czytelnika (nie definiuj kolorów strony)">
 <!ENTITY defaultColors.accesskey    "D">
-<!ENTITY customColorsRadio.label    "Użyj własnych kolorów:">
-<!ENTITY customColors.accesskey     "w">
+<!ENTITY customColorsRadio.label    "Używaj wybranych kolorów:">
+<!ENTITY customColors.accesskey     "U">
 
 <!ENTITY normalText.label           "Zwykły tekst">
 <!ENTITY normalText.accesskey       "Z">
-<!ENTITY linkText.label             "Tekst odnośnika">
-<!ENTITY linkText.accesskey         "o">
-<!ENTITY activeLinkText.label       "Tekst aktywnego odnośnika">
-<!ENTITY activeLinkText.accesskey   "a">
-<!ENTITY visitedLinkText.label      "Tekst odwiedzonego odnośnika">
-<!ENTITY visitedLinkText.accesskey  "i">
+<!ENTITY linkText.label             "Odnośnik">
+<!ENTITY linkText.accesskey         "O">
+<!ENTITY activeLinkText.label       "Aktywny odnośnik">
+<!ENTITY activeLinkText.accesskey   "K">
+<!ENTITY visitedLinkText.label      "Odwiedzony odnośnik">
+<!ENTITY visitedLinkText.accesskey  "w">
 <!ENTITY background.label           "Tło:">
 <!ENTITY background.accesskey       "T">
 <!ENTITY colon.character            ":">
@@ -37,5 +37,5 @@
 <!ENTITY language.label              "Język:">
 <!ENTITY languageChoiceButton.label  "Wybierz język">
 
-<!ENTITY defaultCharset.label        "Kodowanie:">
-<!ENTITY chooseCharsetButton.label   "Wybierz kodowanie">
+<!ENTITY defaultCharset.label        "Zestaw znaków:">
+<!ENTITY chooseCharsetButton.label   "Wybierz zestaw">

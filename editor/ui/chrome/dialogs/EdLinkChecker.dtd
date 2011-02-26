@@ -24,7 +24,7 @@
 <!-- Window title -->
 <!ENTITY windowTitle.label     "Sprawdź obrazki oraz adresy odnośników">
 <!ENTITY urlsNotFound.label    "Następujące obrazki oraz adresy nie zostały znalezione:">
-<!ENTITY notFoundKey.label     "(&quot;X&quot; = nie znaleziono pliku, &quot;?&quot; = upłynął limit czasu podczas próby połączenia.)">
+<!ENTITY notFoundKey.label     "(„X” = nie znaleziono pliku, „?” = upłynął limit czasu podczas próby połączenia.)">
 <!ENTITY changeUrlButton.label "Zmień adresy zaznaczonych elementów">
 <!ENTITY succeeded.label       "Udane">
 <!ENTITY failed.label          "Nie udane">

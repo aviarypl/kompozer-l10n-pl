@@ -3,16 +3,16 @@
                          You may want to translate the Cmd.key and accesskey --> 
 
 <!ENTITY closeCmd.label "Zamknij">
-<!ENTITY closeCmd.key "W">
-<!ENTITY closeCmd.accesskey "c">
+<!ENTITY closeCmd.key "Z">
+<!ENTITY closeCmd.accesskey "Z">
 
 <!ENTITY quitApplicationCmd.label "Zakończ">
-<!ENTITY quitApplicationCmd.key "Q">
-<!ENTITY quitApplicationCmd.accesskey "x">
+<!ENTITY quitApplicationCmd.key "k">
+<!ENTITY quitApplicationCmd.accesskey "k">
 
 <!ENTITY redoCmd.label "Przywróć">
-<!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "r">
+<!ENTITY redoCmd.key "P">
+<!ENTITY redoCmd.accesskey "P">
 
 <!ENTITY findTypeTextCmd.key "/">
 <!ENTITY findTypeLinksCmd.key "'">
@@ -21,5 +21,5 @@
 
 <!-- Help viewer -->
 <!ENTITY openHelpCmd.label "Spis treści">
-<!ENTITY openHelpCmd.accesskey "H">
+<!ENTITY openHelpCmd.accesskey "S">
 <!ENTITY openHelpCmd.key "VK_F1">

@@ -1,6 +1,6 @@
-<!ENTITY helpers.label                "Zewnętrzne aplikacje">
+<!ENTITY helpers.label                "Programy zewnętrzne">
 
-<!ENTITY application.label            "Aplikacja:">
+<!ENTITY application.label            "Program:">
 <!ENTITY webBrowser.label             "Przeglądarka WWW">
 <!ENTITY textEditor.label             "Edytor tekstu">
 <!ENTITY imageEditor.label            "Edytor grafiki">
@@ -8,12 +8,12 @@
 <!ENTITY fileManager.label            "Menedżer plików">
 <!ENTITY ftpClient.label              "Klient FTP">
 
-<!ENTITY useSystemHelper.label        "użyj ustawień systemowych">
-<!ENTITY useCustomHelper.label        "użyj własnych aplikacji:">
-<!ENTITY path.label                   "ścieżka do pliku">
-<!ENTITY arguments.label              "argumenty">
+<!ENTITY useSystemHelper.label        "Użyj ustawień systemowych">
+<!ENTITY useCustomHelper.label        "Użyj własnych programów:">
+<!ENTITY path.label                   "Ścieżka do pliku">
+<!ENTITY arguments.label              "Argumenty">
 <!ENTITY filePicker.tooltip           "Wybierz plik…">
 
 <!ENTITY fileFilter.label             "Rozszerzenia dla (*):">
-<!ENTITY default.label                "domyślne">
+<!ENTITY default.label                "Domyślne">
 <!ENTITY needToRestart.label          "(*) Zmiana tych ustawień wymaga ponownego uruchomienia KompoZera.">

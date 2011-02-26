@@ -7,15 +7,15 @@
 <!ENTITY keepCheck.label "Zachowaj obrazki wraz ze stroną" >
 
 <!--LOCALIZATION NOTE (adjustDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
-<!ENTITY  adjustDesc.label "Dostosuj odnośniki tak aby działały z bieżącej lokalizacji strony. (Odnośniki do lokalnej 
-                              kopii strony bedą działały gdy ta kopia będzie istniała)">
+<!ENTITY  adjustDesc.label "Dostosuj odnośniki, tak aby działały z bieżącej lokalizacji strony. (Odnośniki do lokalnej 
+                              kopii strony bedą działały, gdy ta kopia będzie istniała)">
 <!--LOCALIZATION NOTE (saveDesc.label): Attempt to maintain approximate line length, linefeeds and white space -->
 <!ENTITY  saveDesc.label "Zapisz kopie obrazków razem ze stroną. Obrazki będą widoczne na lokalnej 
-                          kopii jak i opublikowanej stronie.">
-<!ENTITY  tip.label "Wskazówka: Zaznacz obie opcje, jeśli chcesz używać zdalnego publikowania.">
+                          kopii, jak i opublikowanej stronie.">
+<!ENTITY  tip.label "Wskazówka: Zaznacz obie funkcje jeśli chcesz używać zdalnego publikowania.">
 <!ENTITY defaultHeader.label  "Domyślny adres do publikowania">
 <!--LOCALIZATION NOTE (publishFtp.label): Edit box appears beside this label -->
-<!ENTITY  publishFtp.label "Jeżeli przesyłasz stronę przez FTP site, podaj adres HTTP pod jakim można ją oglądać:">
+<!ENTITY  publishFtp.label "Jeżeli przesyłasz stronę przez FTP podaj adres HTTP pod jakim można ją oglądać:">
 <!--LOCALIZATION NOTE (publishhtp.label): Edit box appears beside this label -->
-<!ENTITY  publishhtp.label "Jeżeli przesyłasz stronę przez FTP site, podaj adres HTTP pod jakim można ją oglądać:">
+<!ENTITY  publishhtp.label "Jeśli przesyłasz stronę przez FTP podaj adres HTTP pod jakim można ją oglądać:">
 

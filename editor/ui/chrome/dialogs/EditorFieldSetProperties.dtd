@@ -48,5 +48,5 @@
 <!ENTITY AlignCenter.label "Środek">
 <!ENTITY AlignRight.label "Prawo">
 
-<!ENTITY RemoveFieldSet.label "Usuń Pola">
+<!ENTITY RemoveFieldSet.label "Usuń pola">
 <!ENTITY RemoveFieldSet.accesskey "U">

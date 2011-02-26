@@ -34,12 +34,11 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-
 <!ENTITY header.title "Paski narzędzi" >
 
 <!ENTITY composition.caption "Wyświetl poniższe przyciski na pasku narzędzi edycji:" >
 
-<!ENTITY new.label "Nowy" >
+<!ENTITY new.label "Nowa" >
 <!ENTITY open.label "Otwórz" >
 <!ENTITY save.label "Zapisz" >
 <!ENTITY publish.label "Publikuj" >

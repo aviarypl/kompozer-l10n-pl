@@ -37,26 +37,25 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY pref.masterpass.title 						"Hasło główne">
-<!ENTITY managepassword.caption						"Limit czasu hasła">
-<!ENTITY managepassword.text 						"&brandShortName; zapyta o hasło główne:">
-<!ENTITY managepassword.askfirsttime 				"za pierwszym razem, kiedy będzie to wymagane">
-<!ENTITY managepassword.askfirsttime.accesskey  	"p">
-<!ENTITY managepassword.askeverytime 				"za każdym razem, kiedy będzie to wymagane">
-<!ENTITY managepassword.askeverytime.accesskey  	"k">
-<!ENTITY managepassword.asktimeout 					"jeżeli ostatni raz użyto hasła">
-<!ENTITY managepassword.asktimeout.accesskey    	"o">
-<!ENTITY managepassword.timeout.unit 				"minut temu lub wcześniej.">
+<!ENTITY pref.masterpass.title                  "Hasło główne">
+<!ENTITY managepassword.caption                 "Limit czasu hasła">
+<!ENTITY managepassword.text                    "&brandShortName; zapyta o hasło główne:">
+<!ENTITY managepassword.askfirsttime            "za pierwszym razem, kiedy będzie to wymagane">
+<!ENTITY managepassword.askfirsttime.accesskey  "p">
+<!ENTITY managepassword.askeverytime            "za każdym razem, kiedy będzie to wymagane">
+<!ENTITY managepassword.askeverytime.accesskey  "k">
+<!ENTITY managepassword.asktimeout              "jeżeli ostatni raz użyto hasła">
+<!ENTITY managepassword.asktimeout.accesskey    "o">
+<!ENTITY managepassword.timeout.unit            "minut temu lub wcześniej.">
 
-<!ENTITY changepassword.caption						"Zmień hasło główne">
-<!ENTITY changepassword.text 						"Hasło główne ochrania prywatne informacje, takie jak hasła do witryn i certyfikaty.">
-<!ENTITY changepassword.button 						"Zmień hasło…">
-<!ENTITY changepassword.accesskey 					"Z">
+<!ENTITY changepassword.caption                 "Zmień hasło główne">
+<!ENTITY changepassword.text                    "Hasło główne ochrania prywatne informacje, takie jak hasła do witryn i certyfikaty.">
+<!ENTITY changepassword.button                  "Zmień hasło…">
+<!ENTITY changepassword.accesskey               "Z">
 
-<!ENTITY resetpassword.caption						"Zresetuj hasło główne">
-<!ENTITY resetpassword.text "Po zresetowaniu hasła głównego wszystkie przechowywane hasła do witryn i poczty, dane formularzy, certyfikaty osobiste oraz klucze prywatne zostaną usunięte.">
-<!ENTITY resetpassword.button 						"Zresetuj hasło">
-<!ENTITY resetpassword.accesskey 					"r">
-
-<!ENTITY  encryptExpire.label                    	"Hasło główne ma wygasać po każdym użyciu.">
-<!ENTITY  encryptExpire.accesskey                	"w">
+<!ENTITY resetpassword.caption                  "Zresetuj hasło główne">
+<!ENTITY resetpassword.text                     "Po zresetowaniu hasła głównego wszystkie przechowywane hasła do witryn i poczty, dane formularzy, certyfikaty osobiste oraz klucze prywatne zostaną usunięte.">
+<!ENTITY resetpassword.button                   "Zresetuj hasło">
+<!ENTITY resetpassword.accesskey                "r">
+<!ENTITY  encryptExpire.label                   "Hasło główne ma wygasać po każdym użyciu.">
+<!ENTITY  encryptExpire.accesskey               "w">

@@ -19,7 +19,7 @@
 <!ENTITY colorspaceInput.label "Przestrzeń kolorów:">
 
 <!ENTITY fontsGroup.label "Czcionki:">
-<!ENTITY downloadFonts.label "Załaduj czcionki na drukarkę?">
+<!ENTITY downloadFonts.label "Prześlij czcionki na drukarkę?">
 
 <!ENTITY edgeMarginInput.label "Odstęp pomiędzy brzegiem kartki a marginesem (w calach)" >
 <!ENTITY topInput.label "Górny:" >

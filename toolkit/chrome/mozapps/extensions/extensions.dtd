@@ -4,6 +4,10 @@
 <!ENTITY em.width                         "540">
 <!ENTITY em.height                        "380">
 
+<!ENTITY cmd.info.commandKey              "i">
+<!ENTITY cmd.options.commandKey           ",">
+<!ENTITY cmd.close.commandKey             "w">
+
 <!-- View labels -->                                                            
 <!ENTITY extensions.label                 "Rozszerzenia">
 <!ENTITY themes.label                     "Motywy">
@@ -11,10 +15,6 @@
 <!ENTITY plugins.label                    "Wtyczki">
 <!ENTITY update.label                     "Aktualizacje">
 <!ENTITY install.label                    "Instalacja">
-
-<!ENTITY cmd.info.commandKey              "i">
-<!ENTITY cmd.options.commandKey           ",">
-<!ENTITY cmd.close.commandKey             "w">
 
 <!-- Command Bar items -->
 <!ENTITY cmd.checkUpdatesAll.label        "Znajdź aktualizacje">
@@ -49,27 +49,26 @@
 <!ENTITY cmd.useTheme.label               "Zastosuj">
 <!ENTITY cmd.useTheme.accesskey           "S">
 <!ENTITY cmd.useTheme.tooltip             "Zmień motyw programu &brandShortName;.">
-<!ENTITY cmd.options.label                "Opcje">
-<!ENTITY cmd.options.accesskey            "p">
-<!ENTITY cmd.options.tooltip              "Ustaw Opcje wybranego rozszerzenia">
+<!ENTITY cmd.options.label                "Ustawienia">
+<!ENTITY cmd.options.accesskey            "U">
+<!ENTITY cmd.options.tooltip              "Dostosuj ustawienia wybranego rozszerzenia">
 <!ENTITY cmd.optionsUnix.label            "Preferencje">
 <!ENTITY cmd.optionsUnix.accesskey        "P">
-<!ENTITY cmd.optionsUnix.tooltip          "Edytuj Preferencje wybranego rozszerzenia">
+<!ENTITY cmd.optionsUnix.tooltip          "Edytuj preferencje wybranego rozszerzenia">
 <!ENTITY cmd.enable.label                 "Włącz">
 <!ENTITY cmd.enable.accesskey             "W">
 <!ENTITY cmd.enable.tooltip               "Włącz ten dodatek przy ponownym uruchomieniu programu &brandShortName;">
 <!ENTITY cmd.disable.label                "Wyłącz">
-<!ENTITY cmd.disable.accesskey            "y">
+<!ENTITY cmd.disable.accesskey            "c">
 <!ENTITY cmd.disable.tooltip              "Wyłącz ten dodatek przy ponownym uruchomieniu programu &brandShortName;">
-
 <!ENTITY cmd.uninstall.label              "Odinstaluj">
 <!ENTITY cmd.uninstall2.accesskey         "O">
 <!ENTITY cmd.uninstall2.tooltip           "Odinstaluj ten dodatek przy ponownym uruchomieniu programu &brandShortName;">
-<!ENTITY cmd.cancelUninstall.label        "Anuluj deinstalację">
+<!ENTITY cmd.cancelUninstall.label        "Anuluj dezinstalację">
 <!ENTITY cmd.cancelUninstall.accesskey    "A">
-<!ENTITY cmd.cancelUninstall.tooltip      "Anuluj deinstalację tego dodatku">
+<!ENTITY cmd.cancelUninstall.tooltip      "Anuluj dezinstalację tego dodatku">
 <!ENTITY cmd.installUpdate.label          "Zainstaluj aktualizację">
-<!ENTITY cmd.installUpdate.accesskey      "i">
+<!ENTITY cmd.installUpdate.accesskey      "n">
 <!ENTITY cmd.installUpdate.tooltip        "Zainstaluj aktualizację tego dodatku">
 <!-- The selected add-on's cancel action button label -->
 <!ENTITY cancel.label                     "Anuluj">
@@ -82,6 +81,7 @@
 <!ENTITY cmd.about.accesskey              "O">
 <!ENTITY cmd.checkUpdate.label            "Znajdź aktualizację">
 <!ENTITY cmd.checkUpdate.accesskey        "Z">
+
 <!ENTITY cmd.includeUpdate.label          "Dołącz aktualizację"><!-- fuzzy -->
 <!ENTITY cmd.includeUpdate.accesskey      "D">
 <!ENTITY includeUpdate.label              "Dołącz tę aktualizację"><!-- fuzzy -->
@@ -97,20 +97,19 @@
 <!ENTITY toBeUninstalled.label            "Zostanie odinstalowany przy ponownym uruchomieniu programu &brandShortName;.">
 <!ENTITY toBeUpgraded.label               "Zostanie zaktualizowany przy ponownym uruchomieniu programu &brandShortName;.">
 
-<!ENTITY getExtensions.label          "Pobierz rozszerzenia">
-<!ENTITY getExtensions.tooltip        "Pobierz rozszerzenia z addons.mozilla.org">
-<!ENTITY getThemes.label              "Pobierz motywy">
-<!ENTITY getThemes.tooltip            "Pobierz motywy z addons.mozilla.org">
-
+<!ENTITY getExtensions.label              "Pobierz rozszerzenia">
+<!ENTITY getExtensions.tooltip            "Pobierz rozszerzenia z addons.mozilla.org">
+<!ENTITY getThemes.label                  "Pobierz motywy">
+<!ENTITY getThemes.tooltip                "Pobierz motywy z addons.mozilla.org">
 <!ENTITY previewNoThemeSelected.label     "Nie wybrano motywu">
-<!ENTITY previewNoPreviewImage.label      "Ten motyw nie posiada obrazka podglądu">
-
+<!ENTITY previewNoPreviewImage.label      "Ten motyw nie ma obrazka podglądu">
 <!ENTITY moreInfo.label                   "Więcej informacji">
 <!ENTITY closeMessage.tooltip             "Zamknij to okno">
+
 <!ENTITY updateSuccess.label              "Aktualizacja zakończona powodzeniem.">
 <!ENTITY installSuccess.label             "Instalacja zakończona powodzeniem.">
 <!ENTITY installSuccessRestart.label      "Uruchom program ponownie, by dokończyć instalację.">
 <!ENTITY installWaiting.label             "Oczekiwanie…">
 <!ENTITY installIncompatibleUpdate.label  "Sprawdzanie kompatybilności…">
 <!ENTITY installFinishing.label           "Instalowanie…">                      
-<!ENTITY installFailure.label             "Instalacja nie powiodła się.">
+<!ENTITY installFailure.label             "Instalacja się nie powiodła.">

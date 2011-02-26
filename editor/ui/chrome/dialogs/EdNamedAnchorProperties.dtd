@@ -23,6 +23,6 @@
 <!ENTITY windowTitle.label "Właściwości kotwicy">
 <!ENTITY anchorNameEditField.label "Nazwa kotwicy:">
 <!ENTITY anchorNameEditField.accessKey "N">
-<!ENTITY nameInput.tooltip "Wpisz unikatową nazwę tworzonej kotwicy (cel dla odnośników)">
+<!ENTITY nameInput.tooltip "Podaj unikatową nazwę tworzonej kotwicy (cel dla odnośników)">
 
 

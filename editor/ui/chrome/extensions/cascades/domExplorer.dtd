@@ -43,7 +43,7 @@
 <!ENTITY htmlcss.label                          "HTML+CSS">
 
 <!ENTITY id.label                               "id">
-<!ENTITY class.label                            "class">
+<!ENTITY class.label                            "klasa">
 <!ENTITY elements.label                         "Elementy">
 <!ENTITY style.label                            "style">
 <!ENTITY styleRules.label                       "Reguły stylów">

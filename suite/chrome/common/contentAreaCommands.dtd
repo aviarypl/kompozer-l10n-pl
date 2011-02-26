@@ -1,3 +1,4 @@
+<!-- Context Menu -->
 <!ENTITY popupWindowRejectCmd.label "Zablokuj wyświetlanie wyskakujących okien przez tę witrynę" >
 <!ENTITY popupWindowRejectCmd.accesskey "" >
 <!ENTITY popupWindowAllowCmd.label "Zezwalaj na wyświetlanie wyskakujących okien przez tę witrynę" >

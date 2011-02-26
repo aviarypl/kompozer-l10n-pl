@@ -37,32 +37,32 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY SSLProtocolVersions.caption        "Wersje protokołu SSL">
-<!ENTITY SSLWarnings.caption				"Ostrzeżenia SSL">
-<!ENTITY SSLClientAuthMethod.caption		"Wybór certyfikatu klienta">
+<!ENTITY SSLProtocolVersions.caption    "Wersje protokołu SSL">
+<!ENTITY SSLWarnings.caption            "Ostrzeżenia SSL">
+<!ENTITY SSLClientAuthMethod.caption    "Wybór certyfikatu klienta">
 
-<!ENTITY pref.ssl.title						"Protokół SSL" >
-<!ENTITY enable.ssl3 						"Włącz SSL w wersji 3">
-<!ENTITY enable.ssl3.accesskey              "3">
-<!ENTITY enable.tls 						"Włącz TLS">
-<!ENTITY enable.tls.accesskey               "T">
+<!ENTITY pref.ssl.title                 "Protokół SSL" >
+<!ENTITY enable.ssl3                    "Włącz SSL w wersji 3">
+<!ENTITY enable.ssl3.accesskey          "3">
+<!ENTITY enable.tls                     "Włącz TLS">
+<!ENTITY enable.tls.accesskey           "T">
 
-<!ENTITY warn.description 					"&brandShortName; może informować o poziomie bezpieczeństwa oglądanych stron WWW. Ostrzeżenie z pytaniem o kontynuację zostanie wyświetlone przed:">
-<!ENTITY warn.enteringsecure 				"wczytaniem strony, która używa szyfrowania" >
-<!ENTITY warn.enteringsecure.accesskey		"w">
-<!ENTITY warn.enteringweak 					"wczytaniem strony, która używa niskiego poziomu szyfrowania" >
-<!ENTITY warn.enteringweak.accesskey		"n">
-<!ENTITY warn.insecurepost 					"przesyłaniem danych pomiędzy stronami, które nie używają szyfrowania" >
-<!ENTITY warn.insecurepost.accesskey		"p">
-<!ENTITY warn.leavingsecure 				"opuszczeniem strony, która używa szyfrowania" >
-<!ENTITY warn.leavingsecure.accesskey       "o">
-<!ENTITY warn.secureredirect				"przekierowaniem z jednej szyfrowanej strony do innej">
-<!ENTITY warn.secureredirecttoinsecure		"przekierowaniem z szyfrowanej strony do nieszyfrowanej strony" >
-<!ENTITY warn.viewmixed 					"przeglądaniem strony tylko częściowo zaszyfrowanej" >
-<!ENTITY warn.viewmixed.accesskey           "c">
+<!ENTITY warn.description               "Program &brandShortName; może informować o poziomie bezpieczeństwa oglądanych stron WWW. Ostrzeżenie z pytaniem o kontynuację zostanie wyświetlone przed:">
+<!ENTITY warn.enteringsecure            "wczytaniem strony, która używa szyfrowania" >
+<!ENTITY warn.enteringsecure.accesskey  "w">
+<!ENTITY warn.enteringweak              "wczytaniem strony, która używa niskiego poziomu szyfrowania" >
+<!ENTITY warn.enteringweak.accesskey    "n">
+<!ENTITY warn.insecurepost              "przesyłaniem danych pomiędzy stronami, które nie używają szyfrowania" >
+<!ENTITY warn.insecurepost.accesskey    "p">
+<!ENTITY warn.leavingsecure             "opuszczeniem strony, która używa szyfrowania" >
+<!ENTITY warn.leavingsecure.accesskey   "o">
+<!ENTITY warn.secureredirect            "przekierowaniem z jednej szyfrowanej strony do innej">
+<!ENTITY warn.secureredirecttoinsecure  "przekierowaniem z szyfrowanej strony do nieszyfrowanej strony" >
+<!ENTITY warn.viewmixed                 "przeglądaniem strony tylko częściowo zaszyfrowanej" >
+<!ENTITY warn.viewmixed.accesskey       "c">
 
-<!ENTITY certselect.description 			"Określ sposób, w jaki &brandShortName; dokona wyboru certyfikatu do przedstawienia witrynom, które tego zażądają:">
-<!ENTITY certselect.auto 					"wybierz automatycznie">
-<!ENTITY certselect.auto.accesskey          "a">
-<!ENTITY certselect.ask 					"pytaj za każdym razem">
-<!ENTITY certselect.ask.accesskey           "k">
+<!ENTITY certselect.description         "Określ sposób, w jaki program &brandShortName; dokona wyboru certyfikatu do przedstawienia witrynom, które tego zażądają:">
+<!ENTITY certselect.auto                "wybierz automatycznie">
+<!ENTITY certselect.auto.accesskey      "a">
+<!ENTITY certselect.ask                 "pytaj za każdym razem">
+<!ENTITY certselect.ask.accesskey       "k">

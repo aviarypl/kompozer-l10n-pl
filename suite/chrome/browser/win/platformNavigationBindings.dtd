@@ -1,5 +1,5 @@
-# moved from navigator/locale/navigator.properties
-# valid collation options are: <empty string> or useCodePointOrder
-intl.collationOption=
-intl.charset.default=ISO-8859-2
+<!-- LOCALIZATION NOTE: RTL languages may wish to switch these -->
+<!ENTITY goBackCmd.keyCode "VK_LEFT">
+<!ENTITY goForwardCmd.keyCode "VK_RIGHT">
+
 

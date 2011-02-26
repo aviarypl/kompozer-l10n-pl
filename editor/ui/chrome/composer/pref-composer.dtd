@@ -40,43 +40,43 @@
 <!--LOCALIZATION NOTE : FILE 'Composer' prefs dialog. Similar to Communcator 4.x Document Properties/Colors and Background -->
 
 <!--LOCALIZATION NOTE (title.label): DONT_TRANSLATE -->
-<!ENTITY  title.label               "General">
-<!ENTITY  lHeader                   "Ogólne">
-<!ENTITY  rHeader                   "Ustawienia własności nowych stron WWW"><!--hmmm?-->
+<!ENTITY  title.label                          "General">
+<!ENTITY  lHeader                              "Ogólne">
+<!ENTITY  rHeader                              "Ustawienia własności nowych stron WWW"><!--hmmm?-->
 
-<!ENTITY  tableEditing.label                    "Edycja tabel">
-<!ENTITY  maintainTableStructure.label          "Utrzymuj wygląd tabeli podczas dodawania i usuwania komórek">
-<!ENTITY  maintainTableStructure.tooltip        "Zachowuje prostokątny kształt tabeli poprzez automatyczne dodawanie komórek po wstawieniu lub usunięciu komórek">
-<!ENTITY  maintainStructure.accesskey           "Z">
+<!ENTITY  tableEditing.label                   "Edycja tabel">
+<!ENTITY  maintainTableStructure.label         "Utrzymuj wygląd tabeli podczas dodawania i usuwania komórek">
+<!ENTITY  maintainTableStructure.tooltip       "Zachowuje prostokątny kształt tabeli poprzez automatyczne dodawanie komórek po wstawieniu lub usunięciu komórek">
+<!ENTITY  maintainStructure.accesskey          "U">
 
-<!ENTITY  savingFiles.title           "Zapisywanie i publikowanie stron">
-<!ENTITY  preserveExistingFormatting  "Zachowaj formatowanie źródła">
-<!ENTITY  preserveExistingFormatting.accesskey  "o">
-<!ENTITY  preserveExistingFormatting.tooltip    "Zachowaj łamania linii i formatowanie">
-<!ENTITY  reformat.label              "Przeformatuj źródło HTML">
-<!ENTITY  reformat.accesskey          "r">
-<!ENTITY  reformat.tooltip            "Przeformatuj znaczniki HTML ustawiając łamanie linii i zagłębień">
+<!ENTITY  savingFiles.title                    "Zapisywanie i publikowanie stron">
+<!ENTITY  preserveExistingFormatting           "Zachowaj formatowanie źródła">
+<!ENTITY  preserveExistingFormatting.accesskey "r">
+<!ENTITY  preserveExistingFormatting.tooltip   "Zachowuje łamania linii i formatowanie">
+<!ENTITY  reformat.label                       "Formatuj źródło HTML">
+<!ENTITY  reformat.accesskey                   "F">
+<!ENTITY  reformat.tooltip                     "Formatuje znaczniki HTML stosując łamanie linii i wcięcia">
 
-<!ENTITY  saveAssociatedFiles.label "Zachowaj obrazki i inne powiązane pliki podczas zapisywania strony">
-<!ENTITY  showPublishDialog.label   "Zawsze pokazuj ustawienia publikacji podczas publikowania stron">
+<!ENTITY  saveAssociatedFiles.label            "Zachowaj obrazki i inne powiązane pliki podczas zapisywania strony">
+<!ENTITY  showPublishDialog.label              "Zawsze pokazuj ustawienia publikacji podczas publikowania stron">
 
-<!ENTITY  saving                    "Zapisywanie">
-<!ENTITY  AutoSaveCheck             "Automatycznie zapisuj co">
-<!ENTITY  minText                   "minut">
+<!ENTITY  saving                               "Zapisywanie">
+<!ENTITY  AutoSaveCheck                        "Automatycznie zapisuj co">
+<!ENTITY  minText                              "minut">
 
-<!ENTITY  exterLegend.label         "Zewnętrzne edytory">
-<!ENTITY  htmlSource                "Źródła HTML:">
-<!ENTITY  imageeditor               "Obrazków:">
-<!ENTITY  chooseButton.label        "Wybierz">
+<!ENTITY  exterLegend.label                    "Zewnętrzne edytory">
+<!ENTITY  htmlSource                           "Źródła HTML:">
+<!ENTITY  imageeditor                          "Obrazków:">
+<!ENTITY  chooseButton.label                   "Wybierz">
 
-<!ENTITY  recentFiles.title         "Lista ostatnio edytowanych stron">
-<!ENTITY  documentsInMenu.accesskey     "o">
-<!ENTITY  documentsInMenu           "Maksymalna liczba stron na liście:">
+<!ENTITY  recentFiles.title                    "Lista ostatnio edytowanych stron">
+<!ENTITY  documentsInMenu.accesskey            "k">
+<!ENTITY  documentsInMenu                      "Maksymalna liczba stron na liście:">
 
-<!ENTITY  cssEditing.label          "Edycja stylów CSS">
-<!ENTITY  useCSS.label              "Użyj stylów CSS zamiast elementów HTML i atrybutów">
+<!ENTITY  cssEditing.label                     "Edycja stylów CSS">
+<!ENTITY  useCSS.label                         "Użyj stylów CSS zamiast elementów HTML i atrybutów">
 
-<!ENTITY  siteManager.label         "Otwieranie stron">
-<!ENTITY  openInNewTab.label        "Zawsze otwieraj dokument w nowym panelu">
+<!ENTITY  siteManager.label                    "Otwieranie stron">
+<!ENTITY  openInNewTab.label                   "Zawsze otwieraj dokument w nowej karcie">
 <!-- KompoZer 0.8 -->
-<!ENTITY  useSystemIcons.label                  "Użyj ikon systemowych">
+<!ENTITY  useSystemIcons.label                 "Użyj ikon systemowych">

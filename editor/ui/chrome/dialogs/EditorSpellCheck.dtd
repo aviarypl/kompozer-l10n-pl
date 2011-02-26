@@ -24,8 +24,8 @@
 <!ENTITY windowTitle.label "Sprawdź pisownię" >
 
 <!ENTITY misspelledWord.label "Błędne słowo:" >
-<!ENTITY wordEditField.label "Zamień na:" >
-<!ENTITY wordEditField.accessKey "m" >
+<!ENTITY wordEditField.label "Zastąp tym:" >
+<!ENTITY wordEditField.accessKey "Z" >
 <!ENTITY checkwordButton.label "Sprawdź słowo" >
 <!ENTITY checkwordButton.accessKey "S" >
 <!ENTITY suggestions.label "Sugestie:" >
@@ -34,10 +34,10 @@
 <!ENTITY ignoreButton.accessKey "I" >
 <!ENTITY ignoreAllButton.label "Ignoruj wszystkie" >
 <!ENTITY ignoreAllButton.accessKey "w" >
-<!ENTITY replaceButton.label "Zamień" >
+<!ENTITY replaceButton.label "Zastąp" >
 <!ENTITY replaceButton.accessKey "a" >
-<!ENTITY replaceAllButton.label "Zamień wszystkie" >
-<!ENTITY replaceAllButton.accessKey "w" >
+<!ENTITY replaceAllButton.label "Zastąp wszystkie" >
+<!ENTITY replaceAllButton.accessKey "t" >
 <!ENTITY stopButton.label "Nie wysyłaj" >
 <!ENTITY stopButton.accessKey "N" >
 <!ENTITY userDictionary.label "Osobisty słownik:" >
@@ -49,7 +49,7 @@
 <!ENTITY recheckButton.label "Sprawdź ponownie" >
 <!ENTITY recheckButton.accessKey "p" >
 <!ENTITY closeButton.label "Zamknij" >
-<!ENTITY closeButton.accessKey "Z" >
+<!ENTITY closeButton.accessKey "m" >
 <!ENTITY sendButton.label "Wyślij" >
 <!ENTITY sendButton.accessKey "l" >
 <!ENTITY languagePopup.label "Język:" >

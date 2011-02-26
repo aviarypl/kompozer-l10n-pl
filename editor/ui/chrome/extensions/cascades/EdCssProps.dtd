@@ -142,10 +142,10 @@
 <!ENTITY dottedBorderStyle.label            "kropkowany">
 <!ENTITY dashedBorderStyle.label            "przerywany">
 <!ENTITY doubleBorderStyle.label            "podwójny">
-<!ENTITY grooveBorderStyle.label            "groove"><!--Hmm?-->
-<!ENTITY ridgeBorderStyle.label             "ridge"><!--Hmm?-->
-<!ENTITY insetBorderStyle.label             "wklęsły (inset)"><!--Hmm?-->
-<!ENTITY outsetBorderStyle.label            "wypukły (outset)"><!--Hmm?-->
+<!ENTITY grooveBorderStyle.label            "wyżłobienie">
+<!ENTITY ridgeBorderStyle.label             "brzeg">
+<!ENTITY insetBorderStyle.label             "wklęsły (inset)">
+<!ENTITY outsetBorderStyle.label            "wypukły (outset)">
 
 <!ENTITY display.label                      "Tryb wyświetlania:">
 <!ENTITY noneDisplay.label                  "brak">
@@ -168,7 +168,7 @@
 <!ENTITY visibility.label                   "Widoczność:">
 <!ENTITY visibleVisibility.label            "widoczne">
 <!ENTITY hiddenVisibility.label             "ukryte">
-<!ENTITY collapseVisibility.label           "collapse"><!--Hmm?-->
+<!ENTITY collapseVisibility.label           "zwiniete">
 
 <!ENTITY float.label                        "Pływający (Float):"><!--sta-->
 <!ENTITY leftFloat.label                    "po lewej">
@@ -271,10 +271,10 @@
 <!ENTITY outsideListStylePosition.label    "na zewnątrz (outside)">
 
 <!-- Kaze: added -->
-<!ENTITY makeCSSRule.label                      "Extract and create generic style">
-<!ENTITY makecssrule.accesskey                  "E">
-<!ENTITY currentstylesfor.label                 "Current styles for:">
-<!ENTITY renameButton.label                     "Edit selector">
+<!ENTITY makeCSSRule.label                      "Wyodrębnij i utwórz styl ogólny">
+<!ENTITY makecssrule.accesskey                  "W">
+<!ENTITY currentstylesfor.label                 "Aktualne style dla:">
+<!ENTITY renameButton.label                     "Edytuj selektor">
 
 <!-- LOCALIZATION NOTE: DO NOT TRANSLATE (this will raise a bug with KompoZer 0.7.10) -->
 <!ENTITY autoMarginUnit.label                   "auto">

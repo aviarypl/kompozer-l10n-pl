@@ -29,10 +29,10 @@
 <!ENTITY AddButton.accessKey "D" >
 <!ENTITY DictionaryList.label "Słowa w słowniku:" >
 <!ENTITY DictionaryList.accessKey "w" >
-<!ENTITY ReplaceButton.label "Zamień" >
+<!ENTITY ReplaceButton.label "Zastąp" >
 <!ENTITY ReplaceButton.accessKey "Z" >
 <!ENTITY RemoveButton.label "Usuń" >
 <!ENTITY RemoveButton.accessKey "U" >
 
 <!ENTITY CloseButton.label "Zamknij" >
-<!ENTITY CloseButton.accessKey "Z" >
+<!ENTITY CloseButton.accessKey "m" >

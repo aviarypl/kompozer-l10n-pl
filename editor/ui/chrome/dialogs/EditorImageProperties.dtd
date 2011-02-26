@@ -31,13 +31,13 @@
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "Adres obrazka:" >
 <!ENTITY locationEditField.accessKey "A" >
-<!ENTITY locationEditField.tooltip "Wprowadź nazwę pliku obrazka lub lokację" >
+<!ENTITY locationEditField.tooltip "Wprowadź nazwę pliku obrazka lub położenie" >
 <!ENTITY title.label "Podpowiedź:">
 <!ENTITY title.accessKey "o">
-<!ENTITY title.tooltip "Atrybut 'title', który wyświetlany jest jako podwpowiedź">
+<!ENTITY title.tooltip "Atrybut „title”, który wyświetlany jest jako podwpowiedź">
 <!ENTITY altText.label "Alternatywny tekst:">
 <!ENTITY altText.accessKey "A">
-<!ENTITY altTextEditField.tooltip "Wpisz tekst jaki ma być wyświetlany w miejsce obrazka">
+<!ENTITY altTextEditField.tooltip "Wprowadź tekst jaki ma być wyświetlany zamiast obrazka">
 <!ENTITY noAltText.label "Nie używaj alternatywnego tekstu">
 <!ENTITY noAltText.accessKey "N">
 
@@ -92,7 +92,7 @@
 
 <!-- These controls may be added some day; currently not used -->
 <!ENTITY makePageBackgroundCheckbox.label "Wybierz jako obrazek tła" >
-<!ENTITY makePageBackgroundCheckbox.tooltip "Użyj obrazka jako tło dla Twojej strony" >
+<!ENTITY makePageBackgroundCheckbox.tooltip "Użyj obrazka jako tło dla twojej strony" >
 <!ENTITY editImageButton.label "Edytuj obrazek" >
 <!ENTITY editImageButton.tooltip "Edytuj obrazek w innym programie" >
 

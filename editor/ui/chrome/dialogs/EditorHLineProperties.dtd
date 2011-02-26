@@ -22,7 +22,7 @@
 
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Właściwości poziomej linii">
+<!ENTITY windowTitle.label "Właściwości linii poziomej">
 
 <!ENTITY dimensionsBox.label "Wymiary">
 <!ENTITY heightEditField.label "Wysokość:">

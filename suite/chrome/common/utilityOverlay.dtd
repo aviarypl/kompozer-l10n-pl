@@ -1,19 +1,25 @@
+<!-- these things need to move into utilityOverlay.xul -->
 <!ENTITY offlineGoOfflineCmd.label "Pracuj w trybie offline" >
 <!ENTITY offlineGoOfflineCmd.accesskey "l" >
+
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+
 <!ENTITY fileMenu.label "Plik" >
 <!ENTITY fileMenu.accesskey "P" >
 <!ENTITY newMenu.label "Nowy" >
 <!ENTITY newMenu.accesskey "N" >
-<!ENTITY newBlankPageCmd.label "Strona Kompozytora Stron" >
+<!ENTITY newBlankPageCmd.label "Strona KompoZera" >
 <!ENTITY newBlankPageCmd.accesskey "s" >
 <!ENTITY newBlankPageCmd.key "n" >
 <!ENTITY newPageFromTemplateCmd.label "Stronę z szablonu" >
 <!ENTITY newPageFromTemplateCmd.accesskey "t" >
 <!ENTITY newPageFromDraftCmd.label "Nowa strona ze szkicu" >
 <!ENTITY newPageFromDraftCmd.accesskey "s" >
+<!-- LOCALIZATION NOTE  (newNavigatorCmd.label): Do NOT translate "Navigator" -->
 <!ENTITY newNavigatorCmd.label "Okno Nawigatora" >
 <!ENTITY newNavigatorCmd.key "N" >
 <!ENTITY newNavigatorCmd.accesskey "N" >
+
 <!ENTITY editMenu.label "Edycja" >
 <!ENTITY editMenu.accesskey "E" >
 <!ENTITY undoCmd.label "Cofnij" >
@@ -38,37 +44,45 @@
 <!ENTITY selectAllCmd.key "A" >
 <!ENTITY selectAllCmd.accesskey "a" >
 <!ENTITY preferencesCmd.label "Preferencje…" >
-<!ENTITY preferencesCmd.key "E" >
+<!ENTITY preferencesCmd.key "e" >
 <!ENTITY preferencesCmd.accesskey "P" >
-<!ENTITY findTypeTextCmd.label "Znajdź wprowadzając - Tekst " >
+<!ENTITY findTypeTextCmd.label "Znajdź wprowadzając – Tekst " >
 <!ENTITY findTypeTextCmd.accesskey "s" >
-<!ENTITY findTypeLinksCmd.label "Znajdź wprowadzając - Odnośniki" >
+<!ENTITY findTypeLinksCmd.label "Znajdź wprowadzając – Odnośniki" >
 <!ENTITY findTypeLinksCmd.accesskey "w" >
+
 <!ENTITY viewMenu.label "Widok" >
 <!ENTITY viewMenu.accesskey "W" >
-<!ENTITY viewToolbarsMenu.label "Pokaż/Ukryj" >
+<!ENTITY viewToolbarsMenu.label "Pokaż/ukryj" >
 <!ENTITY viewToolbarsMenu.accesskey "U" >
 <!ENTITY showTaskbarCmd.label "Pasek stanu" >
 <!ENTITY showTaskbarCmd.accesskey "s" >
+
 <!ENTITY helpMenu.label "Pomoc" >
 <!ENTITY helpMenu.accesskey "c" >
+
+<!-- NOTE (whatNewCmd.label): This is not used in Mozilla but is used in Netscape -->
 <!ENTITY whatNewCmd.label "Co nowego?" >
+
 <!ENTITY releaseCmd.label "Informacje o wersji programu" >
 <!ENTITY releaseCmd.accesskey "I" >
-<!ENTITY aboutCmd.label "O &brandShortName;" >
+<!ENTITY aboutCmd.label "O programie &brandShortName;" >
 <!ENTITY aboutCmd.accesskey "M" >
 <!ENTITY aboutCommPluginsCmd.label "O wtyczkach" >
 <!ENTITY aboutCommPluginsCmd.accesskey "w" >
-<!ENTITY direct.label "Online (Proxy: Brak)" >
+
+<!ENTITY direct.label "Online (proxy: brak)" >
 <!ENTITY direct.accesskey "n" >
-<!ENTITY manual.label "Online (Proxy: Ręczne)" >
+<!ENTITY manual.label "Online (proxy: ręczne)" >
 <!ENTITY manual.accesskey "r" >
-<!ENTITY pac.label "Online (Proxy: Automatyczne)" >
+<!ENTITY pac.label "Online (proxy: automatyczne)" >
 <!ENTITY pac.accesskey "a" >
-<!ENTITY wpad.label "Online (Proxy: Automatyczne wykrywanie)" >
+<!ENTITY wpad.label "Online (proxy: automatyczne wykrywanie)" >
 <!ENTITY wpad.accesskey "w" >
-<!ENTITY proxy.label "Konfiguracja Proxy…" >
+
+<!ENTITY proxy.label "Konfiguracja proxy…" >
 <!ENTITY proxy.accesskey "C" >
+
 <!ENTITY bidiSwitchTextDirectionItem.label "Zmień kierunek tekstu" >
 <!ENTITY bidiSwitchTextDirectionItem.accesskey "k" >
 <!ENTITY bidiSwitchTextDirectionItem.commandkey "X" >

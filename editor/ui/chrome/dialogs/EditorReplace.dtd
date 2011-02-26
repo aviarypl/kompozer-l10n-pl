@@ -23,24 +23,24 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Znajdź i zamień" >
+<!ENTITY replaceDialog.title "Znajdź i zastąp" >
 <!ENTITY findField.label "Znajdź tekst:" >
 <!ENTITY findField.accesskey "t" >
-<!ENTITY replaceField.label "Zamień na:" >
-<!ENTITY replaceField.accesskey "e" >
+<!ENTITY replaceField.label "Zastąp tym:" >
+<!ENTITY replaceField.accesskey "s" >
 <!ENTITY caseSensitiveCheckbox.label "Uwzględniaj wielkość liter" >
 <!ENTITY caseSensitiveCheckbox.accesskey "l" >
 <!ENTITY wrapCheckbox.label "W całym dokumencie" >
 <!ENTITY wrapCheckbox.accesskey "c" >
 <!ENTITY backwardsCheckbox.label "Szukaj wstecz" >
-<!ENTITY backwardsCheckbox.accesskey "w" >
+<!ENTITY backwardsCheckbox.accesskey "e" >
 <!ENTITY findNextButton.label "Znajdź następny" >
 <!ENTITY findNextButton.accesskey "Z" >
-<!ENTITY replaceButton.label "Zamień" >
-<!ENTITY replaceButton.accesskey "m" >
-<!ENTITY replaceAndFindButton.label "Zamień i znajdź" >
-<!ENTITY replaceAndFindButton.accesskey "a" >
-<!ENTITY replaceAllButton.label "Zamień wszystko" >
+<!ENTITY replaceButton.label "Zastąp" >
+<!ENTITY replaceButton.accesskey "a" >
+<!ENTITY replaceAndFindButton.label "Zastąp i znajdź" >
+<!ENTITY replaceAndFindButton.accesskey "n" >
+<!ENTITY replaceAllButton.label "Zastąp wszystko" >
 <!ENTITY replaceAllButton.accesskey "w" >
 <!ENTITY closeButton.label "Zamknij" >
-<!ENTITY notFoundWarning.label "Wprowadzony tekst nie został znaleziony." >
+<!ENTITY notFoundWarning.label "Szukany tekst nie został znaleziony." >

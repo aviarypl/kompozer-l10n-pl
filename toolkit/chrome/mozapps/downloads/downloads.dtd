@@ -36,7 +36,7 @@
 <!ENTITY cmd.close2.commandKey		"j">
 <!ENTITY cmd.close2Unix.commandKey	"y">
 <!ENTITY cmd.cleanUp.label		"Wyczyść" >
-<!ENTITY cmd.cleanUp.tooltip		"Usuń z listy pliki, których pobieranie zostało zakończone, anulowane lub nie powiodło się" >
+<!ENTITY cmd.cleanUp.tooltip		"Usuń z listy pliki, których pobieranie zostało zakończone, anulowane lub się nie powiodło" >
 <!ENTITY cmd.cleanUp.accesskey		"w" >
 
 <!ENTITY closeWhenDone.label 		"Zamknij okno po zakończeniu pobierania" >

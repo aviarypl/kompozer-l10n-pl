@@ -25,22 +25,22 @@
 <!ENTITY pageColors.label "Kolory strony">
 <!ENTITY defaultColorsRadio.label "Użyj domyślnych kolorów użytkownika (nie definiuj własnych)">
 <!ENTITY defaultColorsRadio.accessKey "U">
-<!ENTITY defaultColorsRadio.tooltip "Użyj ustawień kolorystycznych przeglądarek użytkownikow (odwiedzających stronę)">
-<!ENTITY customColorsRadio.label "Użyj własnych kolorów:">
+<!ENTITY defaultColorsRadio.tooltip "Użyj ustawień kolorystycznych przeglądarek użytkowników (odwiedzających stronę)">
+<!ENTITY customColorsRadio.label "Używaj wybranych kolorów:">
 <!ENTITY customColorsRadio.accessKey "w">
-<!ENTITY customColorsRadio.tooltip "Te ustawienia kolorów nadpisują ustawienia przeglądarek użytkowników">
+<!ENTITY customColorsRadio.tooltip "Te ustawienia kolorów zastępują ustawienia odbiorcy">
 
-<!ENTITY normalText.label "Tekst Normalny">
+<!ENTITY normalText.label "Tekst normalny">
 <!ENTITY normalText.accessKey "N">
-<!ENTITY linkText.label "Tekst odnośnika">
+<!ENTITY linkText.label "Odnośnik">
 <!ENTITY linkText.accessKey "O">
-<!ENTITY activeLinkText.label "Tekst aktywnego odnośnika">
+<!ENTITY activeLinkText.label "Aktywny odnośnik">
 <!ENTITY activeLinkText.accessKey "A">
-<!ENTITY visitedLinkText.label "Tekst odwiedzonego odnośnika">
+<!ENTITY visitedLinkText.label "Odwiedzony odnośnik">
 <!ENTITY visitedLinkText.accessKey "w">
 <!ENTITY background.label "Tło:">
 <!ENTITY background.accessKey "T">
 <!ENTITY colon.character ":">
 <!ENTITY backgroundImage.label "Obrazek tła:">
 <!ENTITY backgroundImage.accessKey "b">
-<!ENTITY backgroundImage.tooltip "Użyj pliku obrazka jako tła dla strony">
+<!ENTITY backgroundImage.tooltip "Użyj pliku obrazka jako tła dla twojej strony">

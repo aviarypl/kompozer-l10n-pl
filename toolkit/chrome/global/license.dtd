@@ -6,7 +6,7 @@
 
 <!ENTITY about.version                "wersja">
 
-<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2006">
+<!ENTITY about.copy.beforeLink        "Copyright &copy; 1998-2008">
 <!ENTITY about.copy.linkTitle         "Współtwórcy">
 <!ENTITY about.copy.afterLink         "projektu Mozilla.">
 
@@ -17,6 +17,7 @@
 <!ENTITY about.relnotes.beforeLink    "Przeczytaj">
 <!ENTITY about.relnotes.linkTitle     "informacje o wydaniu">
 <!ENTITY about.relnotes.afterLink     "tej wersji.">
+
 <!ENTITY about.buildconfig.beforeLink "Sprawdź">
 <!ENTITY about.buildconfig.linkTitle  "konfigurację kompilacji">
 <!ENTITY about.buildconfig.afterLink  "dla tej wersji.">

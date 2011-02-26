@@ -43,19 +43,19 @@
 <!ENTITY forwardButton.accesskey        "D">
 <!ENTITY forwardButton.tooltip          "Przejdź do następnej strony">
 <!ENTITY homeButton.label               "Początek">
-<!ENTITY homeButton.tooltip             "Strona startowa Pomocy">
+<!ENTITY homeButton.tooltip             "Strona startowa pomocy">
 <!ENTITY printButton.label              "Drukuj">
 <!ENTITY printButton.tooltip            "Drukuj bieżącą stronę">
 <!ENTITY findBtn.label                                  "Znajdź">
-<!ENTITY sidebarBtn.label               "Włącz/Wyłącz sidebar">
-<!ENTITY sidebarBtn.tooltip             "Pokaż lub ukryj sidebar Pomocy">
+<!ENTITY sidebarBtn.label               "Włącz/Wyłącz panel boczny">
+<!ENTITY sidebarBtn.tooltip             "Pokaż lub ukryj panel boczny pomocy">
 <!ENTITY textZoomReduceBtn.label                "Zmniejsz rozmiar tekstu">
 <!ENTITY textZoomReduceBtn.accesskey    "Z">
-<!ENTITY textZoomReduceBtn.tooltip      "Zmniejsz rozmiar tekstu w oknie Pomocy">
+<!ENTITY textZoomReduceBtn.tooltip      "Zmniejsz rozmiar tekstu w oknie pomocy">
 <!ENTITY textZoomEnlargeBtn.label               "Zwiększ rozmiar tekstu">
 <!ENTITY textZoomEnlargeBtn.accesskey   "w">
-<!ENTITY textZoomEnlargeBtn.tooltip     "Zwiększ rozmiar tekstu w oknie Pomocy">
-<!ENTITY customizeButton.tooltip        "Dostosuj pasek narzędzi okna Pomocy">
+<!ENTITY textZoomEnlargeBtn.tooltip     "Zwiększ rozmiar tekstu w oknie pomocy">
+<!ENTITY customizeButton.tooltip        "Dostosuj pasek narzędzi okna pomocy">
 <!ENTITY reloadCmd.label                "Odśwież">
 <!ENTITY reloadCmd.accesskey            "O">
 <!ENTITY closeWindow.commandkey         "W">

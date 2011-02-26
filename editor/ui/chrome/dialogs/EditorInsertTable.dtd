@@ -26,13 +26,13 @@
 <!ENTITY size.label "Rozmiar" >
 <!ENTITY numRowsEditField.label "Liczba wierszy:" >
 <!ENTITY numRowsEditField.accessKey "W" >
-<!ENTITY numColumnsEditField.label "Liczba kolumny:" >
+<!ENTITY numColumnsEditField.label "Liczba kolumn:" >
 <!ENTITY numColumnsEditField.accessKey "K" >
 <!ENTITY widthEditField.label "Szerokość:" >
 <!ENTITY widthEditField.accessKey "S" >
-<!ENTITY borderEditField.label "Szerokość obramowania (w pikselach):" >
+<!ENTITY borderEditField.label "Szerokość obramowania (px):" >
 <!ENTITY borderEditField.accessKey "O" >
-<!ENTITY borderEditField.tooltip "Wprowadź liczbę określającą szerokość obramowania tabeli, wprowadź zero, aby nie tworzyć obramowania" >
+<!ENTITY borderEditField.tooltip "Wprowadź liczbę określającą szerokość obramowania tabeli. Wprowadź zero, aby nie tworzyć obramowania" >
 <!ENTITY pixels.label "pikseli" >
 
 <!ENTITY quicklyTab.label "Szybko">
@@ -55,5 +55,5 @@
 <!ENTITY wrapWrapping.label "Łam">
 <!ENTITY nowrapWrapping.label "Nie łam">
 
-<!ENTITY cellSpacing.label "Odstęp między komórkami (w pikselach)">
-<!ENTITY cellPadding.label "Wewnętrzny margines komórek (w pikselach)">
+<!ENTITY cellSpacing.label "Odstęp między komórkami (px)">
+<!ENTITY cellPadding.label "Wewnętrzny margines komórek (px)">

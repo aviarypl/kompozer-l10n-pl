@@ -41,10 +41,10 @@
 <!ENTITY emptyBlocks.label "Usuń puste bloki">
 <!ENTITY emptyCells.label  "Usuń określenie położenia w pustych komórkach tabel">
 <!ENTITY nestedLists.label "Napraw zagnieżdzone listy">
-<!ENTITY localUrls.label   "Relativize local URLs">
+<!ENTITY localUrls.label   "Urelatywnij lokalne adresy URL">
 
 <!ENTITY cleanUp.label "Oczyść">
-<!ENTITY close.label   "Close">
+<!ENTITY close.label   "Zamknij">
 
-<!ENTITY actionColumnHeader.label "Akcja">
+<!ENTITY actionColumnHeader.label "Czynność">
 <!ENTITY reportColumnHeader.label "Raport">

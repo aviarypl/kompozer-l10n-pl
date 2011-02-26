@@ -46,5 +46,5 @@
 <!ENTITY ofType.label             "tego samego typu elementu">
 <!ENTITY whenHovered.label        "uaktywnione przez kursor">
 <!ENTITY autoChoice.label         "Wybierz za mnie!">
-<!ENTITY alreadyUsedWarning.label "Ostrzeżenie, nazwa jest już w użyciu!!!">
+<!ENTITY alreadyUsedWarning.label "Ostrzeżenie, nazwa jest już używana!">
 <!ENTITY nameNeededWarning.label  "Musisz nadać nazwę elementowi">

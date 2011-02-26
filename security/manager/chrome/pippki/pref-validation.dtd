@@ -42,7 +42,7 @@
 <!ENTITY  pref.validation.title                   "Weryfikacja">
 
 <!ENTITY  validation.crl.caption                  "CRL">
-<!ENTITY  validation.crl.description              "Użyj Menedżera list CRL, by zarządzać listami unieważnionych certyfikatów (CRL), przechowywanymi w Twojej bazie certyfikatów.">
+<!ENTITY  validation.crl.description              "Użyj menedżera list CRL, by zarządzać listami unieważnionych certyfikatów (CRL), przechowywanymi w twojej bazie certyfikatów.">
 <!ENTITY  validation.managecrls.button            "Zarządzaj listami CRL…">
 <!ENTITY  validation.managecrls.accesskey         "Z">
 <!ENTITY  validation.crlmanager.label             "Menedżer list CRL">
@@ -76,7 +76,7 @@
 <!ENTITY  edit.button                             "Ustawienia">
 
 <!ENTITY validation.ocsp.caption                  "OCSP">
-<!ENTITY validation.ocsp.description              "&brandShortName; może używać protokołu OCSP (Online Certificate Status Protocol) do weryfikacji certyfikatów. Może korzystać z jednego z poniższych ustawień OCSP:">
+<!ENTITY validation.ocsp.description              "Program &brandShortName; może używać protokołu OCSP (Online Certificate Status Protocol) do weryfikacji certyfikatów. Może korzystać z jednego z poniższych ustawień OCSP:">
 <!ENTITY disableOCSP.label                        "Nie używaj OCSP do weryfikacji certyfikatów">
 <!ENTITY disableOCSP.accesskey                    "N">
 <!ENTITY certOCSP.label                           "Użyj OCSP do weryfikacji wyłącznie tych certyfikatów, które zawierają adres URL usługi OCSP">
