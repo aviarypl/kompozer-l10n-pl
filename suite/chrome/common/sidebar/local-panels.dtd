@@ -36,4 +36,5 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!ENTITY sidebar.client-sitemanager.label "Menedżer stron">
+<!ENTITY sidebar.client-domexplorer.label "Eksplorator DOM">
 

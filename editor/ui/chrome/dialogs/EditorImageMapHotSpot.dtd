@@ -26,7 +26,7 @@
 <!-- hmmm? -->
 <!ENTITY windowTitle.label "Właściwości punktu dostępowego" >
 
-<!ENTITY link.label "Odnośnik punktu dostępowego >
+<!ENTITY link.label "Odnośnik punktu dostępowego" >
 <!ENTITY urlFieldset.label "URL punktu dostępowego:" >
 <!ENTITY altFieldset.label "Tekst alternatywny punktu dostępowego:" >
 <!ENTITY browseButton.label "Przeglądaj…" >

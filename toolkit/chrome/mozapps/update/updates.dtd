@@ -26,7 +26,7 @@
 
 <!ENTITY  license.title                   "Warunki licencji">
 <!ENTITY  license.intro                   "Aby zainstalować aktualizację należy zaakceptować warunki licencji. Proszę przeczytać uważnie:">
-<!ENTITY  license.instructions            "Jeśli akceptujesz warunki licencji, naciśnij przycisk „Zgadzam się”, aby kontynuować instalację aktualizacji."">
+<!ENTITY  license.instructions            "Jeśli akceptujesz warunki licencji, naciśnij przycisk „Zgadzam się”, aby kontynuować instalację aktualizacji.">
 
 <!ENTITY  license.titleText               "Umowa licencyjna oprogramowania">
 <!ENTITY  license.introText               "Warunki korzystania z tego oprogramowania">
