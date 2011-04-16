@@ -238,7 +238,7 @@
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Wstaw odnośnik…" >
 <!ENTITY createlink.accesskey "o" >
-<!ENTITY editLinkCmd.label "Edytuj odnośnik w nowym oknie programu &brandShortName;" >
+<!ENTITY editLinkCmd.label "Edytuj odnośnik w nowym oknie Kompozytora Stron" >
 <!ENTITY editlink.accesskey "i" >
 <!-- (Toplevel Edit menu uses utilityOverlay) -->
 <!ENTITY undoCmd.label "Cofnij" >
