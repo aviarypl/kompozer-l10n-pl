@@ -46,8 +46,8 @@
 <!ENTITY imageEditor.label             "Edytor obrazków">
 
 <!ENTITY connection.label              "Połączenia">
-<!ENTITY connectionDescription.label   "Ustawienia połączenia z siecią Internet">
-<!ENTITY connectionButton.label        "Ustawienia połączenia">
+<!ENTITY connectionDescription.label   "Ustawienia połączenia z Internetem">
+<!ENTITY connectionButton.label        "Ustawienia">
 <!ENTITY connectionbutton.accesskey    "o">
 
 <!ENTITY carriageReturns.label         "Działanie klawisza Enter">
@@ -58,7 +58,7 @@
 <!ENTITY basicEncoding.label           "Tylko &amp; &lt; &gt; ' i twarda spacja">
 <!ENTITY latin1EntitiesEncoding.label  "Powyższe oraz znaki z zestawu Latin-1">
 <!ENTITY htmlEntitiesEncoding.label    "Znaki specjalne HTML 4">
-<!ENTITY allEntitiesEncoding.label     "Użyj notacji &amp;#..; dla wszystkich znaków spoza tablicy ASCII">
+<!ENTITY allEntitiesEncoding.label     "Użyj notacji &amp;#..; dla znaków spoza tablicy ASCII">
 
 <!ENTITY realtimeSpellCheck.label      "Sprawdzanie pisowni">
 
